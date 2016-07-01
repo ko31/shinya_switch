@@ -1,0 +1,11 @@
+{
+    "name": "Shinya Switch",
+        "version": "1",
+        "manifest_version": 2,
+        "description": "佐藤紳哉七段が変身する Chrome 拡張です",
+        "content_scripts": [{
+            "matches": ["http://www.shogi.or.jp/player/kishi/satou-sin.html"],
+            "js": ["shinya.js"],
+            "run_at": "document_end"
+        }]
+}

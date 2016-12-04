@@ -1,5 +1,4 @@
 window.addEventListener("load", function() {
-    console.debug("load");
     var el = document.getElementsByClassName("imgArea")[0];
     el.addEventListener("click", function() {
         var img = this.getElementsByTagName("img")[0];

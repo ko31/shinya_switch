@@ -11,6 +11,6 @@
 
 ## 使い方
 
-[佐藤紳哉七段の棋士紹介ページ](http://www.shogi.or.jp/player/kishi/satou-sin.html) を開きます。
+[佐藤紳哉七段の棋士紹介ページ](http://www.shogi.or.jp/player/pro/224.html) を開きます。
 
 写真をクリックすると佐藤七段がカッコ良く変身します。
